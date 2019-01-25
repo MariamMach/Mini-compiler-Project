@@ -1,0 +1,10 @@
+program test11;
+const a=8;
+var x,y;
+begin
+   x:= 8;
+   b := 66;
+   read(a);
+   write(x);
+   write(y);
+end.
